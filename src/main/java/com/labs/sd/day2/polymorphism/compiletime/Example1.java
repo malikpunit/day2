@@ -1,6 +1,6 @@
-package com.labs.sd.day2.polymorphism;
+package com.labs.sd.day2.polymorphism.compiletime;
 
-public class CompileTimePolymorphism {
+public class Example1 {
 
 	public static void main(String[] args) {
 		/**
