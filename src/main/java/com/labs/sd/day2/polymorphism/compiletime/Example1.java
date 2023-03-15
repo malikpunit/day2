@@ -37,7 +37,7 @@ public class Example1 {
 
 
 	// Method 2 - Overloading - Same name but with different number
-	static int increment(int myNum, int by) { //change return type and no effect
+	static double increment(int myNum, int by) { //change return type and no effect
 		// Returns int incremented by
 		return myNum + by;
 	}

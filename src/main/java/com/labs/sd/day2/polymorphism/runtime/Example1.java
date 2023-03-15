@@ -20,12 +20,12 @@ public class Example1 {
         c.speed();
         c.accelerate();
 
-        c  = new Audi();
+      c  = new Audi();
 
         c.speed();
         c.accelerate();
 
-        c = new Maruti();
+          c = new Maruti();
         c.speed();
         c.accelerate();
     }
